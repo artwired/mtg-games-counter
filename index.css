@@ -1,0 +1,53 @@
+body {
+    background-image: url("Odric.webp");
+    background-size: cover;
+    font-family: 'Eczar', serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 35px;
+    color: #222924;
+    text-shadow: 0 0 8px #F0F4F7;
+}
+
+h2 {
+    font-size: 150px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-shadow: 0 0 8px #F0F4F7;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+    color: #F0F4F7;
+}
+#save-el {
+    font-size: 18px;
+    color: #F0F4F7;
+    background: #8B7A67;
+    display: inline-block;
+    padding: 6px 18px;
+    border-radius:6px;
+    box-shadow: 0 0 2px #222924;
+    text-shadow: 0 0 1px #222924;
+}
+#save-btn {
+    background: #354645;
+}
+
